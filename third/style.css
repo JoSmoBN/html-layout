@@ -4,15 +4,13 @@
 
 .div1 {
     background-color: #D8D8D8;
-    height: 135px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 5px;
+    height: 120px;
+    padding: 17.5px;
 }
 
 .div2 {
     background-color: #FFFFFF;
-    height: 240px;
+    height: 245px;
     padding-top: 40px;
     padding-left: 40px;
 }
@@ -39,7 +37,7 @@
 
 .tinyBox {
     background-color: #4A90E2;
-    height: 120px;
+    height: 100%;
     width: 120px;
 }
 
